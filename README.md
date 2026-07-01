@@ -1,4 +1,4 @@
-# amneziawg-inplace-update
+# amnezia-updater
 
 Update the `amneziawg-go` binary inside an Amnezia self-hosted Docker container
 **without regenerating client configs**. The server key and all peers are kept, so
